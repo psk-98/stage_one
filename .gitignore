@@ -1,7 +1,0 @@
-.env
-/Lib
-/Scripts
-pyvenv.cfg
-Procfile
-runtime.txt
-/Include
